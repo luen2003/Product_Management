@@ -31,7 +31,6 @@ export default function ProductManagement() {
   return (
     <div style={{ maxWidth: "800px", margin: "0 auto", padding: "24px" }}>
       <div style={{ textAlign: "center" }}>
-
         <h2 style={{ fontSize: "24px", fontWeight: "bold", marginBottom: "16px" }}>Quản lý sản phẩm</h2>
       </div>
       <form onSubmit={handleSubmit} style={{ marginBottom: "32px" }}>

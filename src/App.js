@@ -68,7 +68,7 @@ export default function ProductManagement() {
         <div style={{ marginBottom: "16px" }}>
           <label style={{ display: "block", fontWeight: "500", marginBottom: "8px" }}>Ảnh sản phẩm</label>
           <div style={{ display: "flex", alignItems: "center" }}>
-            <label htmlFor="file-upload" style={{ display: "inline-flex", alignItems: "center", backgroundColor: "#ccc", padding: "8px 12px", borderRadius: "4px", cursor: "pointer" }}>
+            <label htmlFor="file-upload" style={{ display: "inline-flex", alignItems: "center", backgroundColor: "#ddd", padding: "8px 12px", borderRadius: "4px", cursor: "pointer" }}>
               <CloudUploadOutlined style={{ marginRight: "8px" }} />
               Chọn tệp tin (tối đa 5MB)
             </label>
